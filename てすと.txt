@@ -1,5 +1,5 @@
 てすと！
 hoge!
 fuga!
-にゃんぱす。
+release2 function!
 ブランチその1。
